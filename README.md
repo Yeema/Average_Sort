@@ -5,7 +5,7 @@
         * customized Partitioner, data type
       * Job 2:  Sort the average outputs from Job1
         * customized Partitioner, data type, key class
-## Calculate average value of each word
+## To Calculate average value of each word
   * The input contains many word-value pairs 
   * Speedup by Combiner 
   * Word only start by [a-z]
