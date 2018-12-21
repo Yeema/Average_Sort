@@ -34,6 +34,7 @@
       * Order by average values (from big to small)
       * With words in same average, order by lexicographically in ascending order (java string compare)
       * Support multiple reducers(2~5)
+      ![image](https://github.com/Yeema/Average_Sort/blob/master/螢幕快照%202018-12-21%20下午5.01.10.png)
   2. Sort by customized key class
       * Implement WritableComparable
       * Override compare function 
