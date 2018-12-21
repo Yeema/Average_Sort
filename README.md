@@ -2,7 +2,9 @@
   1. Goal : calculate the average of occurrences and sort them by multiple reducers
   2. Contains 2 jobs
       * Job 1:  Calculate Average
+        * customized Partitioner, data type
       * Job 2:  Sort the average outputs from Job1
+        * customized Partitioner, data type, key class
 ## Calculate average value of each word
   * The input contains many word-value pairs 
   * Speedup by Combiner 
